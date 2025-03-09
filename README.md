@@ -1,18 +1,20 @@
 
 
-### Steps to Run the App  
 
-1. **Download the ZIP file** and extract its contents.  
-2. **Open the project in VS Code** (or your preferred code editor).  
-3. **Install dependencies** by running the following command in the terminal:  
+## Steps to Run the Application  
+
+1. **Download the ZIP File** and extract it.  
+2. **Open the Project in VS Code** (or your preferred code editor).  
+3. **Install Dependencies** by running the following commands in the terminal:  
+
    ```sh
    npm install
-   ```  
-4. **Install Styled Components** (if not already installed):  
-   ```sh
-   npm install styled-components
-   ```  
-5. **Start the application**:  
+   npm install styled-components  
+   npm install axios styled-components react-chartjs-2 react-datepicker
+   ```
+
+4. **Start the Application** by running:  
+
    ```sh
    npm start
    ```  
