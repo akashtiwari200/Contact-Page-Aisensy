@@ -9,7 +9,6 @@
 
    ```sh
    npm install
-   npm install styled-components  
    npm install axios styled-components react-chartjs-2 react-datepicker
    ```
 
