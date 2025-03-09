@@ -10,6 +10,8 @@
    ```sh
    npm install
    npm install axios styled-components react-chartjs-2 react-datepicker
+   npm install @mui/icons-material
+   npm install lucide-react
    ```
 
 4. **Start the Application** by running:  
